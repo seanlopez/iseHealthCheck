@@ -1,0 +1,1 @@
+{"Database Listener": "running", "Database Server": "running", "Application Server": "running", "Profiler Database": "running", "ISE Indexing Engine": "running", "AD Connector": "running", "M&T Session Database": "running", "M&T Log Processor": "running", "Certificate Authority Service": "running", "EST Service": "running", "SXP Engine Service": "disabled"}
