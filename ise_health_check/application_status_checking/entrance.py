@@ -1,5 +1,5 @@
-from ise_cli_handler import ise_cli_handler
-from ise_show_format import format_handler
+from ise_health_check.ise_cli_handler import ise_cli_handler
+from ise_health_check.ise_show_format import format_handler
 import time
 import json
 
